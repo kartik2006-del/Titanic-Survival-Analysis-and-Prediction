@@ -20,7 +20,7 @@ End-to-end Titanic survival prediction project including data cleaning, explorat
  - 1 = Survived
  - 0 = Did Not Survive
 
-### Project Workflow
+## Project Workflow
 1. Data Cleaning
   - Handled missing values in Age and Embarked columns
   - Removed unnecessary features
